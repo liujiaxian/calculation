@@ -1,0 +1,8 @@
+E:\网络1 王凯\wk\wk\bin\Debug\wk.exe
+E:\网络1 王凯\wk\wk\bin\Debug\wk.pdb
+E:\网络1 王凯\wk\wk\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.Properties.Resources.resources
+E:\网络1 王凯\wk\wk\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\网络1 王凯\wk\wk\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.exe
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.pdb

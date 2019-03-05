@@ -1,0 +1,39 @@
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.exe
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.pdb
+E:\网络1 王凯\wk\wk\bin\Debug\wk.exe
+E:\网络1 王凯\wk\wk\bin\Debug\wk.pdb
+E:\网络1 王凯\wk\wk\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.Login.resources
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.Properties.Resources.resources
+E:\网络1 王凯\wk\wk\obj\x86\Debug\wk.UserInfo.resources
+E:\网络1 王凯\wk\wk\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\网络1 王凯\wk\wk\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.exe
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.pdb
+E:\Cases\winform\c#简单实例合集\wk\bin\Debug\wk.exe
+E:\Cases\winform\c#简单实例合集\wk\bin\Debug\wk.pdb
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.Login.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.Properties.Resources.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\UserInfoApplication.csproj.GenerateResource.Cache
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.MyInfo.resources
+E:\Cases\winform\c#简单实例合集\wk\bin\Debug\wk.exe.config
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.User.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.Info.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.UserEdit.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.UserAdd.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.InfoAdd.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\wk.InfoEdit.resources
+E:\Cases\winform\c#简单实例合集\wk\obj\x86\Debug\UserInfoApplication.csprojResolveAssemblyReference.cache
+E:\mycase\Calculation\wk\bin\Debug\录入信息关系系统.exe.config
+E:\mycase\Calculation\wk\bin\Debug\录入信息关系系统.exe
+E:\mycase\Calculation\wk\bin\Debug\录入信息关系系统.pdb
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.Info.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.InfoAdd.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.InfoEdit.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.Login.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.Properties.Resources.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\wk.MyInfo.resources
+E:\mycase\Calculation\wk\obj\x86\Debug\UserInfoApplication.csproj.GenerateResource.Cache
+E:\mycase\Calculation\wk\obj\x86\Debug\录入信息关系系统.exe
+E:\mycase\Calculation\wk\obj\x86\Debug\录入信息关系系统.pdb
+E:\mycase\Calculation\wk\obj\x86\Debug\UserInfoApplication.csprojResolveAssemblyReference.cache
